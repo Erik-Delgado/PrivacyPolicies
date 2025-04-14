@@ -1,2 +1,2 @@
 # PrivacyPolicies
-Privacy policy for Video Downloader app
+Privacy policy for apps that Erik Delgado has worked on.
